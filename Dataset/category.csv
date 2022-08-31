@@ -1,0 +1,7 @@
+CategoryID,Category,CreationDate,ModifiedDate,Status
+CAT001,Ethical Pharmaceutical Manufacturers,9/1/2021,9/1/2021,active
+CAT002,Holding Companies,9/1/2021,9/1/2021,active
+CAT003,Cosmetics Manufacturers,9/1/2021,10/8/2021,active
+CAT004,Medicinal (Fine) Chemical Manufacturers,9/1/2021,9/1/2021,active
+CAT005,Proprietary Manufacturers,9/1/2021,9/3/2021,inactive
+CAT005,Proprietary Manufacturers,9/3/2021,9/3/2021,active
